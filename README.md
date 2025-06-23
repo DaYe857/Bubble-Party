@@ -34,6 +34,7 @@ effect:
 2. Waste battery character movement speed+++  
 3. Stinky eggs obscure the view every 1.5 seconds  
 4. Big stick bone randomly transforms all bubbles/garbage on a straight line  
+  
 Beginner's Guide  
 Game objectives  
 Left screen player 【 Justice Messenger 】: Turn more garbage into bubbles  
