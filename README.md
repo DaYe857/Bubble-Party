@@ -5,23 +5,16 @@
 # About
 ## Game Name
 ![logo](https://github.com/user-attachments/assets/23723518-44bf-40fb-8b72-b147ea9b6cdf)  
-《Bubble Party》
-Game type: 3D top-down shooting
+《Bubble Party》  
+## Game type  
+3D top-down shooting
 Game tags: Two player confrontation type vampire survivor rouguelike
 Inspiration source: Bubbles can transform objects
 Art Style: Relaxing and Casual Party Lowpoly
 Background setting:
 The righteous messenger wants to protect the earth's environment and turn garbage into bubbles.
 The invincible Destroyer King wants to destroy the environment and turn bubbles into garbage. Protecting the environment is everyone's responsibility!
-Installation Instructions
-Game Name: 《Bubble Party》
-Game type: 3D top-down shooting
-Game tags: Two player confrontation type vampire survivor rouguelike
-Inspiration source: Bubbles can transform objects
-Art Style: Relaxing and Casual Party Lowpoly
-Background setting:
-The righteous messenger wants to protect the earth's environment and turn garbage into bubbles.
-The invincible Destroyer King wants to destroy the environment and turn bubbles into garbage. Protecting the environment is everyone's responsibility!
+# Installation Instructions
 Core gameplay
 Introduction to Core Gameplay, Creative Points, and Fun Points of the Game
 Special Rule 1:
