@@ -1,7 +1,7 @@
-# Unity版本
+# Unity Version
 2022.3.17f1c1
-# 渲染类型
-通用渲染管线URP
+# Render Type
+URP
 # About
 
 ![logo](https://github.com/user-attachments/assets/23723518-44bf-40fb-8b72-b147ea9b6cdf)  
